@@ -1,6 +1,6 @@
-<h1 align = 'center'>BMI Calculator</h1>
-
-A new Flutter project.
+<h2 align = 'center'>BMI Calculator </h2>
+<div align = 'left'> 
+<img align = 'left' height = '400' width = '200' src = 'https://github.com/dsrathore1/BMI-Calculator/blob/master/assets/Images/1.png'></div>  <div align = 'right'> <img height = '400' width = '200' src = 'https://github.com/dsrathore1/BMI-Calculator/blob/master/assets/Images/2.png'></div>
 
 ## Getting Started
 
